@@ -1,4 +1,3 @@
-/* global $ */
 $(function () {
     let wowCount = 0
     let wowMsg
